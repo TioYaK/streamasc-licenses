@@ -1,3 +1,216 @@
-# StreamAsc License Keys
-SASC-2024-ALPHA-001
-SASC-2024-BETA-002
+# =============================================================================
+#  StreamAsc Pro — Arquivo de Licenças
+#  Repositório: TioYaK/streamasc-licenses
+# =============================================================================
+#
+#  INSTRUÇÕES:
+#  - Uma key por linha (sem espaços extras antes/depois da key)
+#  - Para ANOTAR o cliente: adicione um comentário # na linha acima da key
+#  - Para REVOGAR: apague a linha da key (o comentário pode ficar ou ir junto)
+#  - Linhas em branco e linhas começando com # são ignoradas pelo validador
+#
+#  EXEMPLO:
+#    # Cliente: João Silva - @joaosilva - Twitch: joaosilva - comprou 01/06/2024
+#    SASC-XXXX-XXXX-XXXX
+#
+# =============================================================================
+
+# --- KEY 01 ---
+# Cliente: 
+SASC-GUEF-AGRL-973Z
+
+# --- KEY 02 ---
+# Cliente: 
+SASC-92D3-4W9V-XSJJ
+
+# --- KEY 03 ---
+# Cliente: 
+SASC-JL2P-F326-JCYK
+
+# --- KEY 04 ---
+# Cliente: 
+SASC-GGWX-64JT-6373
+
+# --- KEY 05 ---
+# Cliente: 
+SASC-D3RN-H433-XQ5K
+
+# --- KEY 06 ---
+# Cliente: 
+SASC-3X5D-5F6S-7DRD
+
+# --- KEY 07 ---
+# Cliente: 
+SASC-QKXE-3XDZ-9HTW
+
+# --- KEY 08 ---
+# Cliente: 
+SASC-H85R-Q2H2-LJVM
+
+# --- KEY 09 ---
+# Cliente: 
+SASC-U57W-JVKW-KQSM
+
+# --- KEY 10 ---
+# Cliente: 
+SASC-HPMN-NXJB-D5SY
+
+# --- KEY 11 ---
+# Cliente: 
+SASC-74RW-7HAJ-4LAD
+
+# --- KEY 12 ---
+# Cliente: 
+SASC-QXKK-RYSG-QQ8B
+
+# --- KEY 13 ---
+# Cliente: 
+SASC-X9G6-9D7Y-M5E4
+
+# --- KEY 14 ---
+# Cliente: 
+SASC-4RUK-ENKN-6BE8
+
+# --- KEY 15 ---
+# Cliente: 
+SASC-HH8A-NFDB-T5WT
+
+# --- KEY 16 ---
+# Cliente: 
+SASC-JMKF-6AE6-DZGH
+
+# --- KEY 17 ---
+# Cliente: 
+SASC-NDJM-N3P8-5RNK
+
+# --- KEY 18 ---
+# Cliente: 
+SASC-9TG5-PFG2-WKVY
+
+# --- KEY 19 ---
+# Cliente: 
+SASC-394F-XYC5-GCFS
+
+# --- KEY 20 ---
+# Cliente: 
+SASC-JSB7-LCMV-4N4X
+
+# --- KEY 21 ---
+# Cliente: 
+SASC-4XJ8-EWKL-HUYM
+
+# --- KEY 22 ---
+# Cliente: 
+SASC-JUYA-C33J-UYJL
+
+# --- KEY 23 ---
+# Cliente: 
+SASC-MLDH-BQHV-NV4A
+
+# --- KEY 24 ---
+# Cliente: 
+SASC-BH44-HQ2J-6KNS
+
+# --- KEY 25 ---
+# Cliente: 
+SASC-PYJD-3UCY-32MN
+
+# --- KEY 26 ---
+# Cliente: 
+SASC-7LWP-JWE2-P9MK
+
+# --- KEY 27 ---
+# Cliente: 
+SASC-BDWL-LTD3-HVG7
+
+# --- KEY 28 ---
+# Cliente: 
+SASC-WU8U-ZRLU-4RHX
+
+# --- KEY 29 ---
+# Cliente: 
+SASC-33D3-8DLM-45BQ
+
+# --- KEY 30 ---
+# Cliente: 
+SASC-3K3H-7UU5-FT2S
+
+# --- KEY 31 ---
+# Cliente: 
+SASC-XEVK-MKYQ-8P8J
+
+# --- KEY 32 ---
+# Cliente: 
+SASC-V8U3-8BJV-238F
+
+# --- KEY 33 ---
+# Cliente: 
+SASC-9UW8-2BPV-U73F
+
+# --- KEY 34 ---
+# Cliente: 
+SASC-4ZDY-BCK3-8PS2
+
+# --- KEY 35 ---
+# Cliente: 
+SASC-W7GR-KNWM-8434
+
+# --- KEY 36 ---
+# Cliente: 
+SASC-EDJG-VGJS-NT6A
+
+# --- KEY 37 ---
+# Cliente: 
+SASC-72U7-GV9D-YFZ8
+
+# --- KEY 38 ---
+# Cliente: 
+SASC-SUEG-8W54-N53N
+
+# --- KEY 39 ---
+# Cliente: 
+SASC-T3UA-XQLR-3F3X
+
+# --- KEY 40 ---
+# Cliente: 
+SASC-9RLN-3AMR-PRVM
+
+# --- KEY 41 ---
+# Cliente: 
+SASC-PSR4-M4Y8-2T2F
+
+# --- KEY 42 ---
+# Cliente: 
+SASC-V3NV-BAUV-KQ8S
+
+# --- KEY 43 ---
+# Cliente: 
+SASC-EYNP-W2MD-4H9X
+
+# --- KEY 44 ---
+# Cliente: 
+SASC-6U46-45WL-9JE2
+
+# --- KEY 45 ---
+# Cliente: 
+SASC-E6P7-GH9E-4DCD
+
+# --- KEY 46 ---
+# Cliente: 
+SASC-H8N6-WE6S-WYGG
+
+# --- KEY 47 ---
+# Cliente: 
+SASC-B3W7-DVVE-FKHL
+
+# --- KEY 48 ---
+# Cliente: 
+SASC-7TKW-WKMG-GN3D
+
+# --- KEY 49 ---
+# Cliente: 
+SASC-UFDY-F6VM-8JLN
+
+# --- KEY 50 ---
+# Cliente: 
+SASC-XKDP-CFZ2-KZG4
