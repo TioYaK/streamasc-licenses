@@ -1,0 +1,3 @@
+# StreamAsc License Keys
+SASC-2024-ALPHA-001
+SASC-2024-BETA-002
