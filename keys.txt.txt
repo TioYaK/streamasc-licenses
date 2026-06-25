@@ -16,12 +16,12 @@
 # =============================================================================
 
 # --- KEY 01 ---
-# Cliente: 
-SASC-GUEF-AGRL-973Z
+# Cliente: GokuTibia
+SASC-GUEF-AGRL-973Z|GokuTibia
 
 # --- KEY 02 ---
-# Cliente: 
-SASC-92D3-4W9V-XSJJ
+# Cliente: SheikImmortal
+SASC-92D3-4W9V-XSJJ|SheikImmortal
 
 # --- KEY 03 ---
 # Cliente: 
