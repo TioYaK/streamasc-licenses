@@ -24,8 +24,8 @@ SASC-GUEF-AGRL-973Z|GokuTibia
 SASC-92D3-4W9V-XSJJ|SheikImmortal
 
 # --- KEY 03 ---
-# Cliente: 
-SASC-JL2P-F326-JCYK
+# Cliente: Beta Test
+SASC-JL2P-F326-JCYK|Beta Test
 
 # --- KEY 04 ---
 # Cliente: 
